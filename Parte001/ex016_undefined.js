@@ -16,7 +16,7 @@ if(a === undefined){
 }
 
 console.log();
-
+ 
 if(b === undefined){
     console.log("La variable `b` aún no tiene un valor asignado");
 }else{
